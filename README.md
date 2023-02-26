@@ -1,6 +1,6 @@
 # Crypto Currency App
 An app that shows all cryptocurrency from Coin Paprika API in a Scrollable list.
-Clicking on an item will fetch more from the api and shows their details
+Clicking on an item will fetch more from the api and shows their details.
 
 ## We use 
 - Clean Architecture, MVVM, Use Cases, Compose, Rest API, Dagger-Hilt, Coroutines)
